@@ -1,0 +1,6 @@
+[2025-12-14 17:35:11,384: INFO: utils: Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.]
+[2025-12-14 17:35:11,385: INFO: utils: NumExpr defaulting to 8 threads.]
+[2025-12-14 17:35:13,965: INFO: server: Started server process [51613]]
+[2025-12-14 17:35:13,965: INFO: on: Waiting for application startup.]
+[2025-12-14 17:35:13,965: INFO: on: Application startup complete.]
+[2025-12-14 17:35:13,966: INFO: server: Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)]
